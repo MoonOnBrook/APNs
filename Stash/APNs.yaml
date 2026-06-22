@@ -1,5 +1,5 @@
 #!name=苹果APNs推送
-#!desc=分流规则可切换策略，设置后建议重连网络或开关飞行模式
+#!desc=设置完之后要开关飞行模式，断掉所有连接才会生效,如果还是不行可以尝试到设置，隧道，打开包含所有网络，apns开关
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Arcade.png
 
 DOMAIN-SUFFIX,push.apple.com,PROXY
