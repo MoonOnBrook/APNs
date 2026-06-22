@@ -8,6 +8,7 @@ HOST-KEYWORD,apple.com.edgekey.net,PROXY
 
 IP-CIDR,17.249.0.0/16,PROXY,no-resolve
 IP-CIDR,17.252.0.0/16,PROXY,no-resolve
+IP-CIDR,17.57.144.0/22,PROXY,no-resolve
 IP-CIDR,18.188.128.0/18,PROXY,no-resolve
 IP-CIDR,17.188.20.0/23,PROXY,no-resolve
 
