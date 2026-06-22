@@ -1,5 +1,5 @@
 # name: 苹果APNs推送
-# desc: 设置完之后要开关飞行模式或者重启手机，断掉所有连接才会生效
+# desc: 设置后建议开关飞行模式或者重启手机
 
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,akadns.net
